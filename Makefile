@@ -2,7 +2,10 @@ CC		=	gcc
 
 NAME		=	forza
 
-SRC		=	main.c
+SRC		=	main.c				\
+			include/libmy.c		\
+			include/menu.c 		\
+			include/circuit.c 	\
 
 CFLAGS		=	-W -Werror -Wextra -Wall
 

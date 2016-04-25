@@ -1,8 +1,7 @@
-#include <stdio.h>
+#include "include/libmy.h"
 
 int main(void)
 {
-  printf("Hello");
-
-  return 0;
+  menu();
+  return (0);
 }
