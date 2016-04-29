@@ -1,3 +1,13 @@
+/*
+** libmy.c for  in /Users/taing_k/Desktop/Forza/Git/forza
+** 
+** Made by TAING Kevin
+** Login   <taing_k@etna-alternance.net>
+** 
+** Started on  Mon Apr 25 15:53:45 2016 TAING Kevin
+** Last update Mon Apr 25 15:53:46 2016 TAING Kevin
+*/
+
 #include "libmy.h"
 
 void my_putchar(char c)
